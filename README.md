@@ -27,6 +27,7 @@ https://chikarahouses.com
 ### Node Code
 
 Reusable AI-powered automation modules.
+https://nodes.chikarahouses.comn
 
 ### Chikara Studio
 
@@ -48,13 +49,11 @@ https://www.skool.com/chikara-studio-9303/about
 
 ## Contact
 
-- LinkedIn
-- GitHub
-- Email
+- [LinkedIn](https://linkedin.com/in/dialloaidevopssre)
 
 ## Currently Seeking
 
-Technical Support Specialist
+Technical Support Specialist / Cloud Automation Engineer / AI Automation Engineer
 
 Interested in opportunities in:
 
