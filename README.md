@@ -51,3 +51,19 @@ https://www.skool.com/chikara-studio-9303/about
 - LinkedIn
 - GitHub
 - Email
+
+## Currently Seeking
+
+Technical Support Specialist
+
+Interested in opportunities in:
+
+- Malaysia
+- Switzerland
+
+Open to:
+
+- Technical Support
+- Customer Success
+- Cloud Support
+- Platform Support
