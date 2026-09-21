@@ -27,7 +27,7 @@ https://chikarahouses.com
 ### Node Code
 
 Reusable AI-powered automation modules.
-https://nodes.chikarahouses.comn
+https://nodes.chikarahouses.com
 
 ### Chikara Studio
 
